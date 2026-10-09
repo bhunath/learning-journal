@@ -1,0 +1,18 @@
+# Java / build
+*.class
+target/
+build/
+.gradle/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Secrets and state (never commit these)
+.env
+*.pem
+*.tfstate
+*.tfstate.*
+.terraform/
+*.tfvars
