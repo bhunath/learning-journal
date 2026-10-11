@@ -30,10 +30,15 @@ learning-journal/
 │   └── copilot-instructions.md
 ├── java/
 │   ├── day-01-records/
+│   │   ├── pom.xml
 │   │   ├── PREDICTIONS.md
-│   │   ├── Main.java
-│   │   └── NOTES.md
-│   └── day-02-sealed-types/
+│   │   ├── NOTES.md
+│   │   └── src/main/java/Main.java
+│   ├── day-02-sealed-types/
+│   │   ├── pom.xml
+│   │   └── src/main/java/Main.java
+│   ├── pom.xml
+│   └── README.md
 ├── spring/
 ├── docker-k8s/
 ├── terraform-cicd/
